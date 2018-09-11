@@ -1,2 +1,2 @@
 # GitIntroduction
-To be used for the introduction to GIT class for MAS
+To be used for the Introduction to GIT class in MAS
